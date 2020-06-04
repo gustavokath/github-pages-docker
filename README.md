@@ -1,6 +1,9 @@
 # Docker Container for Github Pages
+[![Build](https://img.shields.io/docker/cloud/build/gustavokath/github-pages)](https://hub.docker.com/r/gustavokath/github-pages)
+[![Pulls](https://img.shields.io/docker/pulls/gustavokath/github-pages)](https://hub.docker.com/r/gustavokath/github-pages)
+[![Docker Version](https://img.shields.io/docker/v/gustavokath/github-pages)](https://hub.docker.com/r/gustavokath/github-pages)
+[![License](https://img.shields.io/github/license/gustavokath/github-pages-docker?color=blue)](./LICENSE)
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 It is an Alpine based container that uses of [`github-pages` gem](https://github.com/github/pages-gem) to perform the most similar behavior as it is displayed in the GitHub Pages website.
 
